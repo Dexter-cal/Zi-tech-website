@@ -1,4 +1,4 @@
-# Zitech Limited - Enterprise IT Solutions Platform
+hi# Zitech Limited - Enterprise IT Solutions Platform
 
 Welcome to the modular, full-stack website and management platform for Zitech Limited.
 
@@ -17,5 +17,4 @@ start.bat
 
 Access the application in your browser at http://localhost:3000.
 To access the Admin Panel, navigate to http://localhost:3000/#/admin. Default credentials:
-- Username: admin
-- Password: admin12
+
