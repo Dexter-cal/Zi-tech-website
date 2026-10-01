@@ -931,23 +931,12 @@
     {
       "id": "admin-1",
       "username": "admin",
-      "passwordHash": "$2a$10$LYq0RYRG5jM48wZKWXPwmOclwbZemMyNR8vzPWBAnYra/LmISTdsu",
+      "passwordHash": "$2a$10$Av.7dY.TMy.he0YrY/E4QOv6Uruf0VpY8ERc0vvd7KIJ0viYkAHA2",
       "role": "admin",
       "createdAt": "2026-10-01T10:23:21.329Z"
     }
   ],
   "messages": [
-    {
-      "id": "msg-1790865325407-afiu",
-      "name": "Test User",
-      "email": "test@example.com",
-      "phone": "",
-      "service": "General",
-      "subject": "New Inquiry",
-      "message": "Hello world",
-      "status": "unread",
-      "createdAt": "2026-10-01T14:35:25.407Z"
-    },
     {
       "id": "msg-1790851504406-3qav",
       "name": "Test User",
